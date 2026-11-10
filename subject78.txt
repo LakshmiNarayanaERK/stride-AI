@@ -1,0 +1,17 @@
+
+			Subject #78 (walking)
+
+78_06	78_06.tvd	78_06.c3d	78_06.amc	78_06.avi	RunningStraight       CleanedGRS
+	
+78_07	78_07.tvd	78_07.c3d	78_07.amc	78_07.avi	RunningWideRight       CleanedGRS
+	
+78_08	78_08.tvd	78_08.c3d	78_08.amc	78_08.avi	RunningWideLeft      CleanedGRS
+	
+78_09	78_09.tvd	78_09.c3d	78_09.amc	78_09.avi	RunningTigherLeft      CleanedGRS
+	
+78_10	78_10.tvd	78_10.c3d	78_10.amc	78_10.avi	RunningTighterRight      CleanedGRS
+	
+78_12	78_12.tvd	78_12.c3d	78_12.amc	78_12.avi	RunningNoBall     CleanedGRS
+	
+
+

@@ -1,0 +1,10 @@
+
+			Subject #143 (General Subject Capture)
+
+143_05	143_05.tvd	143_05.c3d	143_05.amc	143_05.avi	Jumping Distances	
+143_06	143_06.tvd	143_06.c3d	143_06.amc	143_06.avi	Jumping Heights	
+143_07	143_07.tvd	143_07.c3d	143_07.amc	143_07.avi	Jumping Sideways	
+143_08	143_08.tvd	143_08.c3d	143_08.amc	143_08.avi	Jumping Twists	
+143_09	143_09.tvd	143_09.c3d	143_09.amc	143_09.avi	Jumping Twists	
+
+
